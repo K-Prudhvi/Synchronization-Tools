@@ -1,0 +1,15 @@
+---> There are four cpp codes for TAS,CAS,Bounded CAS,Atomic algorithms.
+---> input file name is inp.txt. It should be in same directory.First line has N value. Second line has K value. Third line has rowInc value.
+     Fourth line onwards matrix N*N.
+---> To compile the TAS file ->  g++ Assgn3_TAS_Src-CS22BTECH11031.cpp
+---> It should run by using ./a.out.
+---> output file name  for TAS will be out1.txt. It contains the resultant matrix and time taken.
+---> To compile the CAS file ->  g++ Assgn3_CAS_Src-CS22BTECH11031.cpp
+---> It should run by using ./a.out.
+---> output file name for CAS will be out2.txt. It contains the resultant matrix and time taken.
+---> To compile the Bounded CAS file ->  g++ Assgn3_BoundedCAS_Src-CS22BTECH11031.cpp
+---> It should run by using ./a.out.
+---> output file name for Bounded CAS will be out3.txt. It contains the resultant matrix and time taken.
+---> To compile the ATOMIC file ->  g++ Assgn3_ATOMIC_Src-CS22BTECH11031.cpp 
+---> It should run by using ./a.out.
+---> output file name for ATOMIC will be out4.txt. It contains the resultant matrix and time taken.
